@@ -39,9 +39,8 @@ The analysis includes cleaning the dataset, processing data for insights, and cr
 
 Visualizations were created using **Matplotlib** and **Seaborn** to showcase the analysis clearly and effectively. The charts and graphs help to provide insights into user behavior, peak booking times, and more.
 
-
+![Project Thumbnail](thumbnail.png)
 
 ## Conclusion
 
 This project offers insights into Uber ride booking patterns, helping to understand peak usage times, preferred ride categories, and distances traveled. The analysis reveals valuable information that can be useful for understanding customer behavior and improving Uber services.
-![Project Thumbnail](thumbnail.png)
