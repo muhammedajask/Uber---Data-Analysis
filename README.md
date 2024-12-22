@@ -33,14 +33,13 @@ The analysis includes cleaning the dataset, processing data for insights, and cr
 
 1. **Handling Duplicates**: All duplicate records were removed to ensure data accuracy.
 2. **Data Types**: Corrected data types for columns such as dates to facilitate proper analysis.
-3. **New Columns Added**: 
-   - **Hour of Booking**: To analyze bookings by time of day.
-   - **Day of Week**: To identify trends by day.
-   - **Month**: To analyze seasonal patterns.
+3. **New Columns Added**: Date, Time, Day of Week, Month
 
 ## Visualizations
 
 Visualizations were created using **Matplotlib** and **Seaborn** to showcase the analysis clearly and effectively. The charts and graphs help to provide insights into user behavior, peak booking times, and more.
+
+(./path-to-your-image/thumbnail.png)
 
 ## Conclusion
 
