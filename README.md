@@ -44,4 +44,4 @@ Visualizations were created using **Matplotlib** and **Seaborn** to showcase the
 ## Conclusion
 
 This project offers insights into Uber ride booking patterns, helping to understand peak usage times, preferred ride categories, and distances traveled. The analysis reveals valuable information that can be useful for understanding customer behavior and improving Uber services.
-![Project Thumbnail](./path-to-your-image/thumbnail.png)
+![Project Thumbnail](thumbnail.png)
